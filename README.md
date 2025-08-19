@@ -17,5 +17,6 @@ BerberSitesi/
 │── index.html        # Anasayfa
 │── hakkimda.html     # Hakkımda bölümü
 │── hizmetler.html    # Hizmetler bölümü
+│── randevual.html    # randevu bölümü
 │── iletisim.html     # İletişim bölümü
 
